@@ -1,6 +1,6 @@
-# LearnXWeb
+# LearnX
 
-**LearnXWeb** is a full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
+**LearnX** is a full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 The project offers a modern, dynamic platform for learning modules, with a robust backend and responsive frontend.
 
 ## Features
