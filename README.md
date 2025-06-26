@@ -39,7 +39,7 @@ cd LearnXWEb
 Backend Setup:
 ```
 cd backend
-0npm install
+npm install
 ```
 (Optional) Add a .env file if needed (see .env.example)
 ```
