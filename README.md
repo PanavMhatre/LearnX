@@ -34,7 +34,7 @@ Prerequisites:
 Clone the Repository:
 ```
 git clone https://github.com/PanavMhatre/LearnXWEb.git
-cd LearnXWEb
+cd LearnX
 ```
 Backend Setup:
 ```
